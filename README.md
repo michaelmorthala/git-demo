@@ -8,3 +8,5 @@ Adding one more line.
 
 
 adding 3rd line.
+
+index.html is the file content inthe sample website.
